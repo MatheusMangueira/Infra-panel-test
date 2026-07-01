@@ -32,7 +32,7 @@ const html = (count) => `
   </style>
 </head>
 <body>
-  <p>contador salvo no banco de dados AUTO DEPLOY</p>
+  <p>contador salvo no banco de dados Rollback</p>
   <h1>${count}</h1>
   <br/>
   <form method="POST" action="/increment">
